@@ -1,3 +1,12 @@
+npm install -g exp
+npm install -g create-react-native-app
+yarn or npm install [to install all the modules you will need]
+
+To run project download either expo on your phone[facebook authentication is throwing an error on phones] or android studio and run emulator
+
+npm start
+
+_______________________________________________________
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
