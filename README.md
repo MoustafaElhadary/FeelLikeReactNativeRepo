@@ -1,3 +1,4 @@
+git clone https://github.com/MoustafaElhadary/FeelLike.git 
 *npm install -g exp
 *npm install -g create-react-native-app
 *yarn or npm install [to install all the modules you will need]
