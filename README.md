@@ -11,6 +11,7 @@ To run project download either expo on your phone[facebook authentication is thr
 
 `npm start`
 
+on cloud9 use 'exp start --tunnel'
 _______________________________________________________
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
