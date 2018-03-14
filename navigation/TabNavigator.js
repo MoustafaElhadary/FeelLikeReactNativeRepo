@@ -36,7 +36,7 @@ export default TabNavigator(
     tabBarOptions: {
       style: {
         height: 50,
-        backgroundColor: 'red',
+        backgroundColor: 'orange',
       },
     }
   }

@@ -52,7 +52,7 @@ class Login extends React.Component {
         <View style={styles.container}>
         {console.log("2222")}
           <TouchableOpacity onPress={this.login.bind(this)}>
-            <Text>Login</Text>
+            <Text style={ styles.button }>Login</Text>
           </TouchableOpacity>
         </View>
       )      
